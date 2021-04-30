@@ -51,8 +51,9 @@
 .header-intro{
     height: 80vh;
     color: #FFFFFF;
+    background-color: rgb(38, 112, 224);
 
-    background-image: url("/assets/img/laranjaazulrecorte.png");
+    /* background-image: url("/assets/img/laranjaazulrecorte.png"); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
